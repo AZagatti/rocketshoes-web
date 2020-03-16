@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="FastFeet" src="https://res.cloudinary.com/zagatti/image/upload/v1583106267/readme/logo-readme-fastfeet_g0a0yd.png" />
+    <img alt="Rocketshoes" src="https://res.cloudinary.com/zagatti/image/upload/v1584318394/readme/logo-readme-rocketshoes_rqzbwa.png" />
     <br>
     Rocketshoes Web 👞
 </h1>
@@ -25,6 +25,7 @@
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
