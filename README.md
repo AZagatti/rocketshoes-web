@@ -1,68 +1,66 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="FastFeet" src="https://res.cloudinary.com/zagatti/image/upload/v1583106267/readme/logo-readme-fastfeet_g0a0yd.png" />
+    <br>
+    Rocketshoes Web 👞
+</h1>
 
-## Available Scripts
+<h4 align="center">
+  An e-commerce for selling shoes.
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/azagatti/module07-gostack10?color=FCD12A&style=plastic">
 
-In the project directory, you can run:
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/azagatti/module07-gostack10?color=FCD12A&style=plastic">
 
-### `yarn start`
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/azagatti/module07-gostack10?color=FCD12A&style=plastic">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/AZagatti/module07-gostack10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/azagatti/module07-gostack10?style=plastic">
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img alt="License" src="https://img.shields.io/github/license/AZagatti/module07-gostack10?style=plastic">
 
-### `yarn test`
+  <img alt="Code Quality" src="https://img.shields.io/codacy/grade/c6da115bcc9c4325a172dd60c043dab1?style=plastic">
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-### `yarn build`
+## 🖥 Technologies
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is a project developed in module 07 'Architecture Flux' of the [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/bootcamp), developed with the following technologies:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- [Axios](https://github.com/axios/axios)
+- [Babel](https://babeljs.io/)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [ESLint](https://eslint.org/)
+- [History](https://www.npmjs.com/package/history)
+- [Immer](https://www.npmjs.com/package/immer)
+- [Polished](https://github.com/styled-components/polished)
+- [Prettier](https://prettier.io/)
+- [Prop Types](https://www.npmjs.com/package/prop-types)
+- [React](https://reactjs.org/)
+- [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Toastify](https://github.com/fkhadra/react-toastify)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [Redux](https://redux.js.org/)
+- [Redux Saga](https://redux-saga.js.org/)
+- [Styled Components](https://styled-components.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 👁 Preview
 
-### `yarn eject`
+<div align="center">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![](https://res.cloudinary.com/zagatti/image/upload/v1584322083/readme/rocketshoes-web_tlbk5g.gif)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📝 License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project is under the MIT license. See the [LICENSE](https://github.com/AZagatti/module07-gostack10/blob/master/LICENSE.md) for more information.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Made with 💟 by André Zagatti 👋 [Talk to me!](https://www.linkedin.com/in/andre-zagatti/)
