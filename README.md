@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  An e-commerce for selling shoes.
+  An web e-commerce for buying shoes.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/azagatti/module07-gostack10?color=FCD12A&style=plastic">
