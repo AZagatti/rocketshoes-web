@@ -8,19 +8,21 @@
   An web e-commerce for buying shoes.
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/azagatti/module07-gostack10?color=FCD12A&style=plastic">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/azagatti/rocketshoes-web?color=FCD12A&style=plastic">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/azagatti/module07-gostack10?color=FCD12A&style=plastic">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/azagatti/rocketshoes-web?color=FCD12A&style=plastic">
 
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/azagatti/module07-gostack10?color=FCD12A&style=plastic">
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/azagatti/rocketshoes-web?color=FCD12A&style=plastic">
 
-  <a href="https://github.com/AZagatti/module07-gostack10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/azagatti/module07-gostack10?style=plastic">
+  <a href="https://github.com/AZagatti/rocketshoes-web/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/azagatti/rocketshoes-web?style=plastic">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/AZagatti/module07-gostack10?style=plastic">
+  <img alt="License" src="https://img.shields.io/github/license/AZagatti/rocketshoes-web?style=plastic">
 
-  <img alt="Code Quality" src="https://img.shields.io/codacy/grade/c6da115bcc9c4325a172dd60c043dab1?style=plastic">
+  <a href="https://app.codacy.com/manual/AZagatti/rocketshoes-web/dashboard">
+    <img alt="Code Quality" src="https://img.shields.io/codacy/grade/1b2fcd8e86e4462ea17bad145ab6b1c4?style=plastic">
+  </a>
 </p>
 
 <p align="center">
